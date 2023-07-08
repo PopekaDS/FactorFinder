@@ -1,3 +1,5 @@
+// Original: The Big Book of Small Python Projects: 81 Easy Practice Programs by Al Sweigart
+// #24 FACTOR FINDER
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -13,7 +15,7 @@ int main() {
 	cout << "factors of 26. We say that 26 has four factors : 1, 2, 13, and 26.\n\n";
 	cout << "If a number only has two factors(1 and itself), we call that a prime ";
 	cout << "number. Otherwise, we call it a composite number.\n\n";
-	cout << "Can you discover some prime numbers ?\n\n";
+	cout << "Can you discover some prime numbers?\n\n";
 	while (true) {
 		cout << "Enter a positive whole number to factor (or QUIT):\n";
 		cout << "> ";
