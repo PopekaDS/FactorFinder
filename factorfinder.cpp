@@ -1,4 +1,6 @@
-// Original: The Big Book of Small Python Projects: 81 Easy Practice Programs by Al Sweigart
+// Factor Finder, by Al Sweigart
+// Finds all the factors of a number.
+// This code is available at https://nostarch.com/big-book-small-python-programming
 // #24 FACTOR FINDER
 #include <iostream>
 #include <string>
